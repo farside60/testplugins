@@ -1,0 +1,13 @@
+[{
+  "projectUrl": "",
+  "provider": "melxin",
+  "name": "Hoot Tempoross",
+  "description": "Completes Tempoross",
+  "id": "hoottempoross-plugin",
+  "releases": [{
+    "date": "2023-12-16",
+    "sha512sum": "639598ED1EF1D1C1C44496F9ED1731C65178707543F9CDAD6744F657BB0C109BDEFCE79CA169D261D693EFFF31D9D8590591F0513A168D87A7B8F4A75F10E1EC",
+    "version": "0.0.7",
+    "url": "https://github.com/melxin/devious-plugins-extended/blob/master/release/hoot-tempoross-0.0.7.jar?raw=true",
+    "requires": "^1.0.0"
+  }]
